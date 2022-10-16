@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpJb82+ZojMJU/PhyHPuexzqz4ndlCDhBAkvvbCp0KuQruSsUlAZLQx+hpHRz3JzZUuzFOPOneBN5VzhxETiSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bbdnet1732\\Desktop\\Personal\\FRG\\FRG\\FRG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bbdnet1732\\.nuget\\packages\\materialdesigncolors\\2.1.0-ci333\\materialdesigncolors.2.1.0-ci333.nupkg.sha512",
+    "C:\\Users\\bbdnet1732\\.nuget\\packages\\materialdesignthemes\\4.7.0-ci333\\materialdesignthemes.4.7.0-ci333.nupkg.sha512"
+  ],
+  "logs": []
+}
